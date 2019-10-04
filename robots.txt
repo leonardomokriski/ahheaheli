@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maepheiki.cyheffley.com/sitemap.xml
